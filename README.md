@@ -1,2 +1,2 @@
 # NetDefenders
-Videojuego divulgativo de ciberseguridad hecho en python con programación orientada a objetos.
+Videojuego divulgativo de cibersexo hecho en python con programación orientada a objetos.
